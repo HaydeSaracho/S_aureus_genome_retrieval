@@ -89,5 +89,3 @@ The pipeline generates:
 ## Author
 
 👩‍🔬 Hayde Saracho
-
-Hayde Saracho
