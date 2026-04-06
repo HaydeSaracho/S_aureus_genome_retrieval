@@ -89,9 +89,5 @@ The pipeline generates:
 ## Author
 
 👩‍🔬 Hayde Saracho
-- The `assembly_summary.txt` file is only downloaded once. Delete it manually if you want to force a fresh download.
-- The notebook uses `requests` for all downloads, so no FTP client is needed.
-
-## Author
 
 Hayde Saracho
